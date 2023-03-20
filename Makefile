@@ -36,5 +36,5 @@ y.tab.o y.tab.h: parser.y
 .PHONY : clean
 
 clean :
-	rm -f y.tab.h shell *.o 
+	rm -f shell *.o 
 
