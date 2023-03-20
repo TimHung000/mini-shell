@@ -56,3 +56,5 @@
 
 reference/
 *.pdf
+
+!Makefile
