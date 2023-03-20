@@ -244,7 +244,8 @@ void commandListExecute(CommandList* self)
         {
             if(!self->isBackground)
             {
-                waitpid(-1, NULL, 0);
+                waitpid(pid, NULL, 0);
+
             }
             else
             {
