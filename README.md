@@ -28,7 +28,7 @@ Linux os-VirtualBox 5.19.11-M113040047 #1 SMP PREEMPT_DYNAMIC Sun Mar 19 03:01:1
 ![](img/two-processes.PNG)
 3. input, output redirection<br>
 ![](img/input_redirection.PNG)
-![](img/output_redirection.PNG)
+![](img/output_redirection.PNG)e
 4. background<br>
 ![](img/background.PNG)
 
